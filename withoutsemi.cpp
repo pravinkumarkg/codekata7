@@ -3,6 +3,6 @@
 using namespace std;
 int main() {
 	string s;
-	cin>>s;
+	getsline(cin,s);
 	if(cout << s){}
 }
